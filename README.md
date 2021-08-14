@@ -3,7 +3,7 @@
 **I’m a business-oriented Tech Marketer focused in Data 🛠**
 
 I am a generalist, I like to combine Growth & Data with Tech in order to maximize growth opportunities for startups 🚀.
-I’m currently learning about Machine Learning and Behavioral Analytics 🧠.
+I’m currently learning about JavaScript and Behavioral Analytics 🧠.
 
 ## I build things
 
