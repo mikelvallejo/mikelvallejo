@@ -2,12 +2,12 @@
 
 **I’m a business-oriented Tech Marketer focused in Data 🛠**
 
-I am a generalist, i like to combine Growth & Data with Tech in order to maximize growth opportunities for startups 🚀.
+I am a generalist, I like to combine Growth & Data with Tech in order to maximize growth opportunities for startups 🚀.
 I’m currently learning about Machine Learning and Behavioral Analytics 🧠.
 
 ## I build things
 
-I like to craft automations and services that make my life easier: I automated my finances, I create ETL processes for my 
+I like to craft automations and services that make my life easier: I automated my finances, I create simple ETLs to extract useful data and I am passionate about new tools.
 
 My stack:
 * Python 🐍 
