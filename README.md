@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @mikelvallejo
-- 👀 I’m interested in Data, Product and Marketing 
-- 🌱 I’m currently learning about Machine Learning and Behavioral Analytics
-- 💞️ I’m looking to collaborate on projects all around the world :) 
-- 📫 My email: mikelvallejo9@gmail.com
+# 👋 Hi, I’m Mikel 🛠
+
+**I’m a business-oriented Tech Marketer focused in Data.**
+
+I am a generalist, i like to combine Growth & Data with Tech in order to maximize growth opportunities for startups 🚀.
+I’m currently learning about Machine Learning and Behavioral Analytics 🧠.
+
+## I build things
+
+I like to craft automations and services that make my life easier: I automated my finances, I create ETL processes for my 
+
+My stack:
+* Python 🐍 
+* PostreSQL & MongoDB 📦
+* Segment (CDP) 🧠
+* Data Viz tools: Tableau, Data Studio 👀
+* Airflow 🚀
+* JavaScript 🛠
+
+## I write (sometimes)
+
+The tech community has given me so much that sometimes I feel I have to do my bit. You can follow me in medium:
+
+https://mikel-vallejo.medium.com/correlating-elon-musks-tweets-with-crypto-prices-a-python-guide-68fe5408171
 
 <!---
 mikelvallejo/mikelvallejo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
