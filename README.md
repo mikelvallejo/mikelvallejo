@@ -7,7 +7,7 @@ I’m currently learning about JavaScript and Behavioral Analytics 🧠.
 
 ## I build things
 
-I like to craft automations and services that make my life easier: I automated my finances, I create simple ETLs to extract useful data and I am passionate about new tools.
+I like to craft automations and services that make my life easier: I automate my finances, I create simple ETLs to extract useful data and I am passionate about new tools.
 
 My stack:
 * Python 🐍 
