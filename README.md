@@ -1,4 +1,4 @@
-#  Hi, I’m Mikel 👋
+#  Hi, I’m Mikel <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="40px">
 
 **I’m a business-oriented Tech Marketer focused in Data 🛠**
 
