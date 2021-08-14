@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Mikel 🛠
+#  Hi, I’m Mikel 👋
 
-**I’m a business-oriented Tech Marketer focused in Data.**
+**I’m a business-oriented Tech Marketer focused in Data 🛠**
 
 I am a generalist, i like to combine Growth & Data with Tech in order to maximize growth opportunities for startups 🚀.
 I’m currently learning about Machine Learning and Behavioral Analytics 🧠.
