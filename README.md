@@ -13,9 +13,10 @@ My stack:
 * Python 🐍 
 * PostreSQL & MongoDB 📦
 * Segment (CDP) 🧠
-* Data Viz tools: Tableau, Data Studio 👀
+* Data Viz tools: Tableau, Data Studio 📊
 * Airflow 🚀
-* JavaScript 🛠
+* Zapier & Integromat ⚙️
+* JavaScript 🦾
 
 ## I write (sometimes)
 
