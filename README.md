@@ -12,11 +12,10 @@ I like to craft automations and services that make my life easier: I automate my
 My stack:
 * Python 🐍 
 * PostreSQL & MongoDB 📦
-* Segment (CDP) 🧠
+* Mparticle (CDP) 🧠
 * Data Viz tools: Tableau, Data Studio 📊
 * Airflow 🚀
 * Zapier & Integromat ⚙️
-* JavaScript 🦾
 
 ## I write (sometimes)
 
