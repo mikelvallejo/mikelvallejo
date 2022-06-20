@@ -1,5 +1,4 @@
-#  Hi, I’m Mikel <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" width="20px">
-
+#  Hi, I’m Mikel
 **I’m a business-oriented Tech Marketer focused in Data 🛠**
 
 I am a generalist, I like to combine Growth & Data with Tech in order to maximize growth opportunities for startups 🚀.
